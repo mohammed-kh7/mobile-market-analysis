@@ -1,0 +1,21 @@
+[theme]
+base = "dark"
+primaryColor = "#14b8a6"
+backgroundColor = "#0b0f19"
+secondaryBackgroundColor = "#111827"
+textColor = "#F4F7FA"
+borderColor = "#253147"
+baseRadius = "0.9rem"
+buttonRadius = "0.7rem"
+showWidgetBorder = true
+showSidebarBorder = false
+font = "sans-serif"
+headingFont = "sans-serif"
+codeFont = "monospace"
+linkColor = "#14b8a6"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
